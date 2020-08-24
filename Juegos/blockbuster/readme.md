@@ -1,5 +1,5 @@
-# Modelos2
-repositorio de ejercicios y proyectos realizados en la asignatura teniendo como docente al profesor Daza
+## Modelos de programación 2
+
 ## Integrantes
-Sergio Duvan Nuñez Sanchez 20161020133 -    
-Dannyr Gustavo Garcia Cardozo 20152020222 
+Daniel Felipe Camargo Roa - 2017202078 -
+Nathalia 
