@@ -1,10 +1,8 @@
-# REPOSITORIO MODELOS DE PROGRAMACION II
+# Repositorio Modelos de programación II
 
 Presentado por los estudiantes:
 
-  - Brayan Nicolas Medigaño -20162021292
-  - Jeison Jara Sastoque - 20162020462
-  - Oscar Olarte - 20162020450
+  - Daniel Felipe Camargo Roa - 20172020078
 
 
 **UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS**
